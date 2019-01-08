@@ -1,0 +1,40 @@
+ornokrean
+206223166
+or nokrean
+
+
+=======================================
+=  README for ex12: four_in_a_row.py  =
+=======================================
+exercise for building gui that runs the four in a row game, this file is the
+GUI class and the main of the game
+
+=======================================
+=  README for ex12: game.py  =
+=======================================
+exercise for building game logic that runs the four in a row game,  this file
+is the Game class that handles all the logic of the game
+
+
+=======================================
+=  README for ex12: ai.py  =
+=======================================
+exercise for building ai that plays alone at the four in a row game, this file
+ is the AI class that finds a legal move and plays it in given game
+
+
+
+
+==================
+=  Description:  =
+==================
+this exercise is for creating gui and building logic of the four in a row game,
+using tkinter, communicator module and ai to play the game
+
+
+======================
+=  Special Comments  =
+======================
+
+
+
